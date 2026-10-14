@@ -4,7 +4,7 @@ const POSTS = [
 {
 slug: "non-linear-journey",
 title: "My non-linear journey at Ashoka",
-cat: "Personal",
+cat: "Exploration",
 date: "2026-10-14",
 body: `I’m an Economics and Finance major at Ashoka University, currently in my final year.
 
@@ -26,8 +26,8 @@ I'm still figuring out exactly what I want to do next, but I've realised I enjoy
 },
 {
 slug: "twt-founders-office",
-title: "My experience in the founder’s office at The Whole Truth",
-cat: "Personal",
+title: "Three Months in a Founder's Office",
+cat: "What I learnt at The Whole Truth Foods",
 date: "2026-10-13",
 body: `Placeholder text. Replace this with your learnings from the founder's office at The Whole Truth.
 
@@ -35,8 +35,8 @@ Second paragraph of placeholder text. Add headings, links and photos as you like
 },
 {
 slug: "gobble-cube-deep-dive",
-title: "Gobble Cube - company deep dive",
-cat: "",
+title: "Gobble Cube: The Data Stack Behind Digital Commcerce",
+cat: "The Future",
 date: "2026-10-12",
 body: `Placeholder text. Replace this with your Gobble Cube deep dive.
 
