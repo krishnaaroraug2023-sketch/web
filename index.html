@@ -343,7 +343,18 @@ function post(slug) {
 }
 
 function beyond() {
-  app.innerHTML = `<div class="wrap"><h2>Beyond work</h2></div>`;
+  app.innerHTML = `<div class="wrap">
+    <h2>Beyond work</h2>
+
+    <p>Currently training for a HYROX in January and a half marathon soon after. This is where I write about things I try, places I go, and just about anything else that catches my interest.</p>
+
+    ${BEYOND_POSTS.map(p => `
+      <a class="post" href="#/beyond/${p.slug}">
+        <h3>${p.title}</h3>
+        <span class="cat">${p.cat}</span>
+      </a>
+    `).join('')}
+  </div>`;
 }
 
 function route() {
