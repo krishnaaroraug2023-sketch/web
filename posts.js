@@ -30,7 +30,7 @@ You could explore changing pet ownership patterns, consumer spending, emerging b
   {
     slug: "gobble-cube-data-stack",
     title: "GobbleCube's Data Stack",
-    cat: "Enterprise Tech: How Brands Win on Modern Commerce",
+    cat: "Enterprise Tech",
     date: "2026-10-15",
     body: `Placeholder text. Introduce GobbleCube and its role in helping brands navigate modern commerce.
 
