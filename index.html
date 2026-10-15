@@ -1,86 +1,372 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Krishna Arora</title>
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+
 <style>
-:root{--bg:#faf9f6;--ink:#0b0b0b;--link:#4a9ae6}
-*,*::before,*::after{box-sizing:border-box}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,-apple-system,system-ui,sans-serif;font-size:18px;line-height:1.75;padding-bottom:calc(80px + env(safe-area-inset-bottom,0px))}
-a{color:var(--link);text-decoration:none} a:hover{text-decoration:underline}
-nav{position:absolute;top:0;left:0;right:0;z-index:5;display:flex;justify-content:space-between;align-items:center;padding:calc(28px + env(safe-area-inset-top,0px)) max(24px,5vw) 0;font-size:1rem}
-nav a,nav a:hover{color:var(--ink)} nav div{display:flex;gap:28px}
-nav a:hover,nav a[aria-current="page"]{text-decoration:underline;text-underline-offset:4px}
-.hero{position:relative;height:min(62vh,560px);min-height:420px;background:url(images/hero.jpg) 50% 100%/cover}
-h1{position:absolute;left:max(24px,5vw);top:30%;margin:0;font-size:clamp(2.3rem,6vw,4.4rem);line-height:1;letter-spacing:-.03em;font-weight:700}
-.wrap{max-width:700px;margin:0 auto;padding:64px 24px 0}
-.page .wrap{padding-top:150px}
-h2{font-size:clamp(2rem,5vw,2.8rem);letter-spacing:-.03em;line-height:1.15;margin:1.6em 0 .6em;font-weight:700} .wrap>h2:first-child{margin-top:0}
-h3{margin:1.4em 0 .4em;font-size:1.3rem;font-weight:600}
-p{margin:0 0 1.2em}
-.photos{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:32px;margin:36px 0 40px}
-figure{margin:0} figure img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;object-position:top}
-figcaption{font-size:.85rem;opacity:.65;margin-top:8px;line-height:1.4}
-.post{display:block;color:var(--ink);margin-bottom:34px} .post:hover{text-decoration:none} .post:hover h3{text-decoration:underline}
-.post h3{margin:0;font-weight:400;font-size:1.35rem;line-height:1.35}
-.cat{font-style:italic;font-size:1rem}
-.back{font-size:.95rem} .meta{opacity:.6;font-size:.95rem;margin-top:-.4em}
-.corner{position:fixed;right:max(20px,env(safe-area-inset-right,0px));bottom:calc(18px + env(safe-area-inset-bottom,0px));display:flex;gap:16px;font-size:.9rem;background:var(--bg);padding:4px 10px;border-radius:6px}
-.corner a{color:var(--ink);opacity:.7} .corner a:hover{opacity:1;text-decoration:underline}
-@media(max-width:600px){body{font-size:17px}nav div{gap:18px}}
+:root {
+  --bg: #faf9f6;
+  --ink: #0b0b0b;
+  --link: #4a9ae6;
+}
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: Inter, -apple-system, system-ui, sans-serif;
+  font-size: 18px;
+  line-height: 1.75;
+  padding-bottom: calc(80px + env(safe-area-inset-bottom, 0px));
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: calc(28px + env(safe-area-inset-top, 0px)) max(24px, 5vw) 0;
+  font-size: 1rem;
+}
+
+nav a, nav a:hover {
+  color: var(--ink);
+}
+
+nav div {
+  display: flex;
+  gap: 28px;
+}
+
+nav a:hover,
+nav a[aria-current="page"] {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+
+.hero {
+  position: relative;
+  height: min(62vh, 560px);
+  min-height: 420px;
+  background: url('hero.jpg') 50% 100% / cover;
+}
+
+h1 {
+  position: absolute;
+  left: max(24px, 5vw);
+  top: 30%;
+  margin: 0;
+  font-size: clamp(2.3rem, 6vw, 4.4rem);
+  line-height: 1;
+  letter-spacing: -.03em;
+  font-weight: 700;
+}
+
+.wrap {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 64px 24px 0;
+}
+
+.page .wrap {
+  padding-top: 150px;
+}
+
+h2 {
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  letter-spacing: -.03em;
+  line-height: 1.15;
+  margin: 1.6em 0 .6em;
+  font-weight: 700;
+}
+
+.wrap > h2:first-child {
+  margin-top: 0;
+}
+
+h3 {
+  margin: 1.4em 0 .4em;
+  font-size: 1.3rem;
+  font-weight: 600;
+}
+
+p {
+  margin: 0 0 1.2em;
+}
+
+/* Blog list: title and date on the first row */
+.post {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-rows: auto auto;
+  column-gap: 24px;
+  color: var(--ink);
+  margin-bottom: 34px;
+}
+
+.post:hover {
+  text-decoration: none;
+}
+
+.post:hover h3 {
+  text-decoration: underline;
+}
+
+.post h3 {
+  grid-column: 1;
+  grid-row: 1;
+  margin: 0;
+  font-weight: 400;
+  font-size: 1.35rem;
+  line-height: 1.35;
+}
+
+.post .cat {
+  grid-column: 1;
+  grid-row: 2;
+  font-style: italic;
+  font-size: 1rem;
+  line-height: 1.5;
+  margin-top: 5px;
+}
+
+.post .post-date {
+  grid-column: 2;
+  grid-row: 1;
+  margin: 4px 0 0;
+  text-align: right;
+  white-space: nowrap;
+  font-size: .8rem;
+  line-height: 1.5;
+  opacity: .6;
+}
+
+.photos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 32px;
+  margin: 36px 0 40px;
+}
+
+figure {
+  margin: 0;
+}
+
+figure img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: top;
+}
+
+figcaption {
+  font-size: .85rem;
+  opacity: .65;
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+.back {
+  font-size: .95rem;
+}
+
+.meta {
+  opacity: .6;
+  font-size: .95rem;
+  margin-top: -.4em;
+}
+
+.corner {
+  position: fixed;
+  right: max(20px, env(safe-area-inset-right, 0px));
+  bottom: calc(18px + env(safe-area-inset-bottom, 0px));
+  display: flex;
+  gap: 16px;
+  font-size: .9rem;
+  background: var(--bg);
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+
+.corner a {
+  color: var(--ink);
+  opacity: .7;
+}
+
+.corner a:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  body {
+    font-size: 17px;
+  }
+
+  nav div {
+    gap: 18px;
+  }
+
+  .post {
+    column-gap: 12px;
+  }
+
+  .post .post-date {
+    font-size: .7rem;
+  }
+}
 </style>
 </head>
+
 <body>
+
 <nav aria-label="Main">
   <a href="#/" id="n-home">Krishna Arora</a>
-  <div><a href="#/blog" id="n-blog">Blog</a><a href="#/beyond" id="n-beyond">Beyond work</a></div>
+  <div>
+    <a href="#/blog" id="n-blog">Blog</a>
+    <a href="#/beyond" id="n-beyond">Beyond work</a>
+  </div>
 </nav>
+
 <main id="app"></main>
+
 <div class="corner">
   <a href="https://www.linkedin.com/in/krishna-varadarajan-arora-428708213/" target="_blank" rel="noopener">LinkedIn</a>
   <a href="https://www.youtube.com/@krishnaarora6099" target="_blank" rel="noopener">YouTube</a>
   <a href="mailto:krishna.arora_ug2023@ashoka.edu.in">Email</a>
 </div>
+
 <script src="posts.js"></script>
+
 <script>
-const app=document.getElementById('app');
-const inl=s=>s.replace(/\[([^\]]+)\]\(([^)]+)\)/g,(m,a,u)=>`<a href="${u}"${u[0]=='#'?'':' target="_blank" rel="noopener"'}>${a}</a>`).replace(/\*\*(.+?)\*\*/g,'<b>$1</b>').replace(/\*(.+?)\*/g,'<i>$1</i>');
-const md=t=>t.trim().split(/\n\s*\n/).map(b=>{
-  b=b.trim();
-  const im=[...b.matchAll(/!\[([^\]]*)\]\(([^)]+)\)/g)];
-  if(im.length&&b.replace(/!\[[^\]]*\]\([^)]+\)/g,'').trim()==='')
-    return `<div class="photos">${im.map(m=>`<figure><img src="${m[2]}" alt="${m[1]}" loading="lazy"><figcaption>${m[1]}</figcaption></figure>`).join('')}</div>`;
-  const h=b.match(/^(#{1,3})\s+(.*)/);
-  if(h){const n=h[1].length+1;return `<h${n}>${inl(h[2])}</h${n}>`}
-  return `<p>${inl(b.replace(/\n/g,'<br>'))}</p>`;
+const app = document.getElementById('app');
+
+const inl = s => s
+  .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, a, u) =>
+    `<a href="${u}"${u[0] == '#' ? '' : ' target="_blank" rel="noopener"'}>${a}</a>`
+  )
+  .replace(/\*\*(.+?)\*\*/g, '<b>$1</b>')
+  .replace(/\*(.+?)\*/g, '<i>$1</i>');
+
+const md = t => t.trim().split(/\n\s*\n/).map(b => {
+  b = b.trim();
+
+  const im = [...b.matchAll(/!\[([^\]]*)\]\(([^)]+)\)/g)];
+
+  if (im.length && b.replace(/!\[[^\]]*\]\([^)]+\)/g, '').trim() === '') {
+    return `<div class="photos">${im.map(m =>
+      `<figure><img src="${m[2]}" alt="${m[1]}" loading="lazy"><figcaption>${m[1]}</figcaption></figure>`
+    ).join('')}</div>`;
+  }
+
+  const h = b.match(/^(#{1,3})\s+(.*)/);
+
+  if (h) {
+    const n = h[1].length + 1;
+    return `<h${n}>${inl(h[2])}</h${n}>`;
+  }
+
+  return `<p>${inl(b.replace(/\n/g, '<br>'))}</p>`;
 }).join('');
-function home(){
-  app.innerHTML=`<div class="hero"><h1>Hi, I’m Krishna.</h1></div>
+
+function formatDate(date) {
+  if (!date) return '';
+
+  const d = new Date(date + 'T00:00:00');
+
+  if (Number.isNaN(d.getTime())) return date;
+
+  return d.toLocaleDateString('en-GB', {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric'
+  });
+}
+
+function home() {
+  app.innerHTML = `<div class="hero"><h1>Hi, I’m Krishna.</h1></div>
   <div class="wrap">
-    <p>I use this space to write about ideas that catch my interest and anything I’m curious about. I’m interested in the startup ecosystem, but I don't have a set theme for what I write. Expect a mix of interesting startups, my personal experiences, and whatever else catches my attention. </p>
-    <p>I’m always thinking about something, and I thought it’d be nice to have somewhere to put those thoughts down. Maybe writing them out will help me make better sense of them.</p>
-    <p>Outside of work, I like to stay active. I love working out (running and lifting), trekking or <a href="https://youtu.be/5yqRWCaTnqA" target="_blank" rel="noopener">skiing</a> when I get the chance. I’m also always in search of a good cup of coffee :)</p></div>`;
+    <p>I use this space to write about ideas that catch my interest and anything I’m curious about.</p>
+    <p>I’m interested in the startup ecosystem, but I don’t really have a set theme for what I write. Expect a mix of interesting startups, things I’ve experienced, and whatever else catches my attention.</p>
+    <p>Outside of work, I like to stay active. I love running and lifting, trekking or <a href="https://youtu.be/5yqRWCaTnqA" target="_blank" rel="noopener">skiing</a> when I get the chance. I’m also always in search of a good cup of coffee :)</p>
+  </div>`;
 }
-function blog(){
-  app.innerHTML=`<div class="wrap"><h2>Blog</h2>${POSTS.map(p=>`<a class="post" href="#/blog/${p.slug}"><h3>${p.title}</h3>${p.cat?`<span class="cat">${p.cat}</span>`:''}</a>`).join('')}</div>`;
+
+function blog() {
+  app.innerHTML = `<div class="wrap">
+    <h2>Blog</h2>
+    ${POSTS.map(p => `<a class="post" href="#/blog/${p.slug}">
+      <h3>${p.title}</h3>
+      ${p.cat ? `<span class="cat">${p.cat}</span>` : ''}
+      <p class="post-date">${formatDate(p.date)}</p>
+    </a>`).join('')}
+  </div>`;
 }
-function post(slug){
-  const p=POSTS.find(x=>x.slug===slug); if(!p) return blog();
-  app.innerHTML=`<div class="wrap"><a class="back" href="#/blog">← Blog</a><h2>${p.title}</h2><p class="meta">${[p.cat,p.date].filter(Boolean).join(' · ')}</p>${md(p.body)}</div>`;
+
+function post(slug) {
+  const p = POSTS.find(x => x.slug === slug);
+  if (!p) return blog();
+
+  app.innerHTML = `<div class="wrap">
+    <a class="back" href="#/blog">← Blog</a>
+    <h2>${p.title}</h2>
+    <p class="meta">${[p.cat, formatDate(p.date)].filter(Boolean).join(' · ')}</p>
+    ${md(p.body)}
+  </div>`;
 }
-function beyond(){ app.innerHTML=`<div class="wrap"><h2>Beyond work</h2></div>`; }
-function route(){
-  const [pg='',slug]=location.hash.replace(/^#\/?/,'').split('/');
-  document.body.className=pg?'page':'';
-  ['home','blog','beyond'].forEach(k=>document.getElementById('n-'+k).removeAttribute('aria-current'));
-  const n=document.getElementById('n-'+(pg||'home')); if(n&&pg) n.setAttribute('aria-current','page');
-  ({'':home,blog:()=>slug?post(slug):blog(),beyond}[pg]||home)();
-  window.scrollTo(0,0);
+
+function beyond() {
+  app.innerHTML = `<div class="wrap"><h2>Beyond work</h2></div>`;
 }
-addEventListener('hashchange',route); route();
+
+function route() {
+  const [pg = '', slug] = location.hash.replace(/^#\/?/, '').split('/');
+
+  document.body.className = pg ? 'page' : '';
+
+  ['home', 'blog', 'beyond'].forEach(k =>
+    document.getElementById('n-' + k).removeAttribute('aria-current')
+  );
+
+  const n = document.getElementById('n-' + (pg || 'home'));
+  if (n && pg) n.setAttribute('aria-current', 'page');
+
+  ({
+    '': home,
+    blog: () => slug ? post(slug) : blog(),
+    beyond
+  }[pg] || home)();
+
+  window.scrollTo(0, 0);
+}
+
+addEventListener('hashchange', route);
+route();
 </script>
+
 </body>
 </html>
