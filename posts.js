@@ -1,6 +1,10 @@
 
-/* ADD NEW POSTS AT THE TOP OF THIS LIST. Write the body in Markdown-style text between the backticks.
-   Supported: blank line = new paragraph, # headings, **bold**, *italic*, [link](url), ![caption](images/photo.jpg) */
+/*
+  Blog posts for Krishna Arora's website.
+  Add new posts to this array.
+  Supported formatting: Markdown headings, **bold**, *italic*,
+  [links](url), and ![image caption](images/photo.jpg)
+*/
 
 const POSTS = [
   {
@@ -12,6 +16,7 @@ const POSTS = [
 
 You could write about what the role actually involves, working across different functions, solving operational problems, and what you learnt about building a business from the inside.`
   },
+
   {
     slug: "indias-pet-care-sector",
     title: "My Thesis on India's Pet Care Sector",
@@ -21,6 +26,7 @@ You could write about what the role actually involves, working across different 
 
 You could explore changing pet ownership patterns, consumer spending, emerging business models, and the companies shaping the sector. Lay out your thesis, the evidence behind it, and the questions you think are worth exploring.`
   },
+
   {
     slug: "gobble-cube-data-stack",
     title: "GobbleCube's Data Stack",
