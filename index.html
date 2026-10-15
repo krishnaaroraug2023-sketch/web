@@ -357,6 +357,18 @@ function beyond() {
   </div>`;
 }
 
+  function beyondPost(slug) {
+  const p = BEYOND_POSTS.find(x => x.slug === slug);
+  if (!p) return beyond();
+
+  app.innerHTML = `<div class="wrap">
+    <a class="back" href="#/beyond">← Beyond work</a>
+    <h2>${p.title}</h2>
+    <p class="meta">${p.cat || ''}</p>
+    ${md(p.body)}
+  </div>`;
+}
+
 function route() {
   const [pg = '', slug] = location.hash.replace(/^#\/?/, '').split('/');
 
@@ -370,10 +382,10 @@ function route() {
   if (n && pg) n.setAttribute('aria-current', 'page');
 
   ({
-    '': home,
-    blog: () => slug ? post(slug) : blog(),
-    beyond
-  }[pg] || home)();
+  '': home,
+  blog: () => slug ? post(slug) : blog(),
+  beyond: () => slug ? beyondPost(slug) : beyond()
+}[pg] || home)();
 
   window.scrollTo(0, 0);
 }
