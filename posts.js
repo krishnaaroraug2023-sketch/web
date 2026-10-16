@@ -37,5 +37,15 @@ You could explore changing pet ownership patterns, consumer spending, emerging b
 Explore how brands use data to make better decisions across e-commerce and quick commerce, what the underlying data stack looks like, and how tools like GobbleCube are changing the way brands operate.
 
 Use this post to explain the problem, how the technology works, and why it matters for the future of digital commerce.`
+  },
+
+  {
+    slug: "india-semicon",
+    title: "Understanding Semiconductors",
+    cat: "tech",
+    date: "2026-10-15",
+    body: `As part of a course taught by Professor Prachi Mishra at Ashoka University, I had the opportunity to write a policy paper on the India Semiconductor Mission (ISM). This post is my attempt to understand the basics of semiconductors, how the industry works, and why India is investing in building its semiconductor ecosystem.
+    
+    I've attached my policy paper at the end of this post, which analyses India Semiconductor Mission 1.0.`
   }
 ];
