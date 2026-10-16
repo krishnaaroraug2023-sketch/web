@@ -1,14 +1,14 @@
 const BEYOND_POSTS = [
   {
-    slug: "garmin-two-years-later",
-    title: "My Experience with a Garmin: Two Years Down the Line",
-    cat: "Running & Wearables",
-    body: `Two years of using a Garmin — what I've found useful, what I've learned, and whether tracking all that data actually makes a difference.`
+    slug: "gulabi kantha trek",
+    title: "The Gulabi Kantha Trek",
+    cat: "Notes and photos",
+    body: `We went earlier this year`
   },
   {
-    slug: "gulabi-kantha-trek",
-    title: "The Gulabi Kantha Trek",
-    cat: "Travel & Outdoors",
-    body: `Notes from the trail`
+    slug: "visit-twt-factory",
+    title: "A Visit to The Whole Truth's Factory",
+    cat: "From the view of a consumer",
+    body: `I'm writing this through the view of a consumer, not someone who worked there. I was mindblown.`
   }
 ];
