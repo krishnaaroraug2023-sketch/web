@@ -12,9 +12,7 @@ const POSTS = [
     title: "My Thesis on India's Pet Care Sector",
     cat: "Consumer & Healthcare",
     date: "2026-10-15",
-    body: `Placeholder text. Introduce your thesis on India's pet care sector and the opportunity you see in the market.
-
-You could explore changing pet ownership patterns, consumer spending, emerging business models, and the companies shaping the sector. Lay out your thesis, the evidence behind it, and the questions you think are worth exploring.`
+    body: `Coming soon.`
   },
 
   {
