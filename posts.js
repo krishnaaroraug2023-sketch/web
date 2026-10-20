@@ -8,16 +8,6 @@
 
 const POSTS = [
   {
-    slug: "twt-founders-office",
-    title: "Three Months in a Founder's Office",
-    cat: "What I learnt at The Whole Truth Foods",
-    date: "2026-10-13",
-    body: `Placeholder text. Replace this with your learnings from three months in The Whole Truth Foods' Founder's Office.
-
-You could write about what the role actually involves, working across different functions, solving operational problems, and what you learnt about building a business from the inside.`
-  },
-
-  {
     slug: "indias-pet-care-sector",
     title: "My Thesis on India's Pet Care Sector",
     cat: "Consumer & Healthcare",
@@ -29,23 +19,40 @@ You could explore changing pet ownership patterns, consumer spending, emerging b
 
   {
     slug: "gobble-cube-data-stack",
-    title: "GobbleCube's Data Stack",
+    title: "Winning on Quick Commerce with GobbleCube",
     cat: "Enterprise Tech",
     date: "2026-10-15",
-    body: `Placeholder text. Introduce GobbleCube and its role in helping brands navigate modern commerce.
+    body: `The operating model of consumer goods businesses has broadly remained the same over decades. Manufacture a product, sell it to a middleman, and they form the final link to the consumer. What has kept changing over time is the middleman. Forty years ago, it was general trade (local kirana stores); 25 years ago, it was modern trade (supermarkets); 15 years ago, it was e-commerce (Amazon, Flipkart). The newest middleman in the model is quick commerce (Blinkit, Zepto, etc.).
 
-Explore how brands use data to make better decisions across e-commerce and quick commerce, what the underlying data stack looks like, and how tools like GobbleCube are changing the way brands operate.
+Cracking Q-commerce has not been easy. Businesses have systems built around GT and MT, relying on people on the ground. Think area sales managers, distributors, and key account managers. E-commerce, while digital, is relatively centralised and easier to monitor. Q-commerce is a completely different beast, and the speed and scale at which it has grown has left businesses slow to adapt. Q-commerce operations are decentralised down to individual pin codes and dark stores, and the number of moving cogs and granularity of data make it difficult for businesses to monitor performance at scale.
 
-Use this post to explain the problem, how the technology works, and why it matters for the future of digital commerce.`
-  },
+That’s where GobbleCube comes in. Co-founded by three ex-Blinkit senior executives in 2022, the company calls itself *“an AI-powered growth agent that helps brands scale revenue by spotting leaks, market opportunities, and automating growth across digital commerce.”* In the four years since its inception, it has onboarded the likes of P&G, ITC, Dabur, and a host of other D2C consumer goods businesses. It also raised its Series A earlier this year, led by Susquehanna Venture Capital.
 
-  {
-    slug: "india-semicon",
-    title: "Understanding Semiconductors",
-    cat: "tech",
-    date: "2026-10-15",
-    body: `As part of a course taught by Professor Prachi Mishra at Ashoka University, I had the opportunity to write a policy paper on the India Semiconductor Mission (ISM). This post is my attempt to understand the basics of semiconductors, how the industry works, and why India is investing in building its semiconductor ecosystem.
-    
-    I've attached my policy paper at the end of this post, which analyses India Semiconductor Mission 1.0.`
+According to GobbleCube, success on quick commerce is a function of four A’s: **Availability, Ads, Assortments and ASP.**
+
+Availability is the bedrock of success on Q-commerce. Even when there is demand for your product, poor dark-store availability directly translates to lost sales. The nature of quick commerce makes switching effortless, potentially creating long-term issues for brands. Building a well-oiled supply chain is therefore essential.
+
+Assortment is about understanding which products work best on Q-commerce and in which locations. What works in retail or e-commerce may not work on Q-commerce. Within a large portfolio, businesses must identify what works where and build a supply chain accordingly.
+
+Ads are where it gets interesting. Q-commerce creates a unique opportunity to connect hyperlocal demand generation through advertising with hyperlocal supply. Imagine brands running ads on Meta, Google, and Q-commerce platforms targeted at specific pin codes, while ensuring the relevant SKUs are available too. This makes advertising more efficient, allowing brands to drive demand precisely where they can fulfil it.
+
+Finally, ASP (average selling price) plays a crucial role in driving trial and adoption. This largely involves creating smaller packs, trial packs, or bundles.
+
+To solve for all of these, GobbleCube offers a range of services across inventory and supply-chain planning, ad insights, competitive mapping, and growth insights.
+
+## Data Stack: Their Operating Model
+
+The foundation of GobbleCube’s operating model for quick commerce is deceptively simple. In fact, you could replicate the basic idea yourself.
+
+Imagine your client is GOAT Life. Open a Q-commerce app, search for GOAT Life, and maximise the quantity of each product you can add to your cart. This gives you an estimate of the inventory available for each SKU at that dark store.
+
+Now imagine an AI agent doing this automatically, across every dark store in the country, every single day. That’s a rich dataset tracking inventory across thousands of dark stores, updated daily.
+
+Where GobbleCube really adds value is in building a data stack on top of this. Imagine combining this with granular advertising-spend data, purchase order (PO) data, pricing data, and inventory movement across the supply chain. Suddenly, you can start connecting the dots between demand generation, supply, and actual sales.
+
+GobbleCube’s website lists some interesting case studies demonstrating the problems it has solved for brands.
+
+## GobbleCube’s Growth`
+
   }
 ];
