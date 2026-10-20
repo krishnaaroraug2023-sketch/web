@@ -40,7 +40,7 @@ Finally, ASP (average selling price) plays a crucial role in driving trial and a
 
 To solve for all of these, GobbleCube offers a range of services across inventory and supply-chain planning, ad insights, competitive mapping, and growth insights.
 
-![GOBAL CUBE](images/gobblecube.png)
+![Gobble Cube](images/gobblecube.png)
 
 ## Data Stack: Their Operating Model
 
