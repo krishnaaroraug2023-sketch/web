@@ -7,18 +7,11 @@
 */
 
 const POSTS = [
-  {
-    slug: "indias-pet-care-sector",
-    title: "My Thesis on India's Pet Care Sector",
-    cat: "Consumer & Healthcare",
-    date: "2026-10-15",
-    body: `Coming soon.`
-  },
 
   {
     slug: "gobble-cube-data-stack",
     title: "Winning on Quick Commerce with GobbleCube",
-    cat: "Enterprise Tech",
+    cat: "Enterprise Tech & SaaS",
     date: "2026-10-15",
     body: `The operating model of consumer goods businesses has broadly remained the same over decades. Manufacture a product, sell it to a middleman, and they form the final link to the consumer. What has kept changing over time is the middleman. Forty years ago, it was general trade (local kirana stores); 25 years ago, it was modern trade (supermarkets); 15 years ago, it was e-commerce (Amazon, Flipkart). The newest middleman in the model is quick commerce.
 
