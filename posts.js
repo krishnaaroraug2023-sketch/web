@@ -20,11 +20,13 @@ const POSTS = [
     title: "Winning on Quick Commerce with GobbleCube",
     cat: "Enterprise Tech",
     date: "2026-10-15",
-    body: `The operating model of consumer goods businesses has broadly remained the same over decades. Manufacture a product, sell it to a middleman, and they form the final link to the consumer. What has kept changing over time is the middleman. Forty years ago, it was general trade (local kirana stores); 25 years ago, it was modern trade (supermarkets); 15 years ago, it was e-commerce (Amazon, Flipkart). The newest middleman in the model is quick commerce (Blinkit, Zepto, etc.).
+    body: `The operating model of consumer goods businesses has broadly remained the same over decades. Manufacture a product, sell it to a middleman, and they form the final link to the consumer. What has kept changing over time is the middleman. Forty years ago, it was general trade (local kirana stores); 25 years ago, it was modern trade (supermarkets); 15 years ago, it was e-commerce (Amazon, Flipkart). The newest middleman in the model is quick commerce.
 
 Cracking Q-commerce has not been easy. Businesses have systems built around GT and MT, relying on people on the ground. Think area sales managers, distributors, and key account managers. E-commerce, while digital, is relatively centralised and easier to monitor. Q-commerce is a completely different beast, and the speed and scale at which it has grown has left businesses slow to adapt. Q-commerce operations are decentralised down to individual pin codes and dark stores, and the number of moving cogs and granularity of data make it difficult for businesses to monitor performance at scale.
 
 That’s where GobbleCube comes in. Co-founded by three ex-Blinkit senior executives in 2022, the company calls itself *“an AI-powered growth agent that helps brands scale revenue by spotting leaks, market opportunities, and automating growth across digital commerce.”* In the four years since its inception, it has onboarded the likes of P&G, ITC, Dabur, and a host of other D2C consumer goods businesses. It also raised its Series A earlier this year, led by Susquehanna Venture Capital.
+
+## The Four A's of Quick Commerce
 
 According to GobbleCube, success on quick commerce is a function of four A’s: **Availability, Ads, Assortments and ASP.**
 
