@@ -9,6 +9,8 @@ In the final week of my internship at The Whole Truth, I got the chance to visit
 
 The factory is in Bhiwandi, an industrial hub on the outskirts of Mumbai. Going in, I wasn’t incredibly excited. Waking up early on a Saturday morning to drive two hours in the rain, just to go see a “factory” doesn’t really sound like the ideal way to spend your weekend.
 
+![Protective gear at the factory](images/factory-1.jpg)
+
 Much to my surprise, the experience was nothing like I had expected. I was mind-blown, and left with a 10x increase in my love for the brand.
 
 It’s hard to encapsulate the entire experience, but these were three things that stood out to me:
