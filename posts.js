@@ -65,14 +65,17 @@ This has two dimensions: across channels and across functions. GobbleCube's core
 
 Q-commerce, in its current Indian form, is not equally prevalent across global markets. This makes international expansion more nuanced than simply replicating the existing business model.
 
-However, the core problems GobbleCube solves — fragmented commerce data, poor inventory visibility and supply chain inefficiencies — extend beyond Q-commerce. Can its technology be adapted to other forms of digital commerce and retail in international markets?
+However, the core problems GobbleCube solves: fragmented commerce data, poor inventory visibility and supply chain inefficiencies, extend beyond Q-commerce. Can its technology be adapted to other forms of digital commerce and retail in international markets?
 
-## Further Reading
+That's where it can drive huge growth.
+
+## Stuff I Found Interesting
 
 - [Growth, Margins and Distribution: Truth About Quick Commerce](https://www.youtube.com/watch?v=65s6-SWr1d4)
+- [The Q-Comm Growth Playbook — DSG Consumer Partners](https://www.dsgcp.com/insights/quick-commerce-growth-playbook-2025-from-renting-customers-to-owning-the-flywheel)
 - [Why We Invested in GobbleCube — Susquehanna VC](https://sig-asiavc.com/blog/why-we-invested-in-gobblecube/)
 - [GobbleCube's Blog and Customer Stories](https://gobblecube.ai/blog/tags/customer-stories/)
-- [The Q-Comm Growth Playbook — DSG Consumer Partners](https://www.dsgcp.com/insights/quick-commerce-growth-playbook-2025-from-renting-customers-to-owning-the-flywheel)
+
 `
 },
 ];
