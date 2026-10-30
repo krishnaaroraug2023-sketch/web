@@ -13,7 +13,7 @@ const POSTS = [
   slug: "gobble-cube-data-stack",
   title: "GobbleCube: The Data Stack Behind Quick Commerce",
   cat: "Enterprise Tech / SaaS",
-  date: "2026-10-30",
+  date: "2026-10-24",
   body: `
 The model of consumer goods businesses has broadly remained the same over decades. Manufacture a product, give it to a middleman, and they form the final link to the consumer. What has kept changing over time is the middleman. 40 years ago it was general trade (kirana stores), 25 years ago it was modern trade (supermarkets), 15 years ago it was E-commerce (Amazon, Flipkart). The newest middleman in the game is Quick Commerce.
 
