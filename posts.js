@@ -53,6 +53,8 @@ Where GobbleCube really adds value is in building a data stack on top of this. F
 
 Imagine Gillette wants to run a targeted Meta campaign in South Delhi to promote a particular product. There is little value in generating demand through advertising if consumers subsequently find the product out of stock. By mapping advertising activity against dark-store-level availability, brands can better coordinate where they generate demand with where they have the inventory to fulfil it.
 
+!(images/gobblecube-2.png)
+
 This is just one hypothetical example. GobbleCube's website lists some interesting case studies of problems they have solved for businesses. Read them [here](https://gobblecube.ai/blog/tags/customer-stories/).
 
 ## The Road Forward: GobbleCube's Growth
