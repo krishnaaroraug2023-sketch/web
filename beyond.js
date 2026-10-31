@@ -47,6 +47,8 @@ It's funny how a two-hour drive on a rainy Saturday morning can change how you l
 
 ![Not all peanuts make the cut.](images/peanuts-1.jpg)
 
+![The date depitting line](images/dates-1.jpg)
+
 `
 },
 ];
