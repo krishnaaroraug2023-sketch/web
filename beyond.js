@@ -19,7 +19,7 @@ What do you envision when you hear the word “factory”? Probably machines, co
 
 But this was quite the opposite. The bars you consume are handmade by over 200 tais. From mixing the ingredients, to shaping and pressing them, to sprinkling the almond slices on top, almost every part of making the bar is done by a human. Protein powder, on the other hand, was almost fully mechanised, and it was interesting to see the contrast between the two.
 
-What really got me was the scale they are doing this at. It’s one thing to have a small business that makes handmade products, but pushing out tens of thousands of handmade bars every day seems crazy to me. I couldn't help but think about the level of conviction required to build something like this.
+What really got me was the scale they are doing this at. It’s one thing to have a small business that makes handmade products, but pushing out tens of thousands of handmade bars every day seems crazy to me.
 
 ![Tais shaping and pressing the bars](images/handmade-1.jpg)
 
