@@ -37,7 +37,7 @@ For a brand whose core message is transparency, seeing that same transparency be
 
 Looking at the ingredients and watching how the bars were made, I realised just how simple the product actually is. There's no crazy machinery or elaborate process that you need to understand. You can make these bars at home too. (This reminded me of a reel I saw about this: [Watch it here](https://www.instagram.com/reels/DXHQAN6AavU/))
 
-From a business perspective, this probably doesn't make the most sense. Forget competitors, even consumers can make your products. But for some reason I found that quite refreshing. Here was a product I consume regularly, being made in a way that felt extremely familiar. It was a reminder that food is simple: about the ingredients, people and recipes. 
+From a business perspective, this doesn't make sense at all. Forget competitors, even consumers can make your products themselves. But for some reason I found that quite refreshing. It was a reminder that food is fundamentally simple. Sometimes its just about the ingredients, recipes and people. 
 
 Every time I pick up a TWT bar now, I think a little differently about what's behind it. The people who made it, the ingredients that went into it, and the amount of work that goes into something I probably finish eating in five minutes.
 
