@@ -44,6 +44,9 @@ Every time I pick up a TWT bar now, I think a little differently about what's be
 It's funny how a two-hour drive on a rainy Saturday morning can change how you look at something you consume almost every day. I've attached from the visit below.
 
 ![Freshly made almond butter. The smell in this room was sublime.](images/almondbutter-1.jpg)
+
+![Not all peanuts make the cut.](images/peanuts-1.jpg)
+
 `
 },
 ];
