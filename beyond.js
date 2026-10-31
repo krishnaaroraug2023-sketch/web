@@ -31,11 +31,11 @@ Going there and experiencing the factory firsthand, I realised that they really 
 
 For a brand whose core message is transparency, seeing that same transparency behind the scenes made me believe in it so much more. After the visit, I also found out that they have a 3D tour of their factory: [Take a look here](https://thewholetruthfoods.com/barkhana-protein-bars).
 
-![The whey room: probably the most expensive room in the factory.](images/whey-1.jpg)
+![The whey room: probably the most valuable room in the factory.](images/whey-1.jpg)
 
 ### 3. The bar is so simple you could make it at home
 
-Looking at the ingredients and watching how the bars were made, I realised just how simple the product actually is. There's no crazy machinery or elaborate process that you need to understand. You can make these bars at home too. (This reminded me of a reel I saw about this: [Watch it here](https://www.instagram.com/reels/DXHQAN6AavU/))
+Looking at the ingredients and watching how the bars were made, I realised just how simple the product actually is. There's no crazy machinery or elaborate process that you need to understand. You can make these bars at home too (protein powders, on the other hand, are a completely different story). This reminded me of a reel I saw about this: [Watch it here](https://www.instagram.com/reels/DXHQAN6AavU/)
 
 From a business perspective, this doesn't make sense at all. Forget competitors, even consumers can make your products themselves. But for some reason I found that quite refreshing. It was a reminder that food is fundamentally simple. Sometimes its just about the ingredients, recipes and people. 
 
