@@ -7,6 +7,8 @@ const BEYOND_POSTS = [
   body: `
 In the final week of my internship at The Whole Truth, I got the chance to visit their factory.
 
+<img src="images/handmade-1.jpg" alt="The bars really are handmade" style="width:100%; border-radius:8px;">
+
 The factory is in Bhiwandi, an industrial hub on the outskirts of Mumbai. Going in, I wasn’t incredibly excited. Waking up early on a Saturday morning to drive two hours in the rain, just to go see a “factory” doesn’t really sound like the ideal way to spend your weekend.
 
 Much to my surprise, the experience was nothing like I had expected. I was mind-blown, and left with a 10x increase in my love for the brand.
