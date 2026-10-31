@@ -27,9 +27,9 @@ What really got me was the scale they are doing this at. It’s one thing to hav
 
 If you consume TWT, surely this thought has crossed your mind: “Is it as good as it seems? Surely they must be hiding something behind the scenes.” Trust me, I’ve thought about it too.
 
-Going there and experiencing the factory firsthand, I realised they really have nothing to hide. In fact, they even encouraged us to take pictures, look around and ask questions. There was no sense of secrecy or hiding anything.
+Going there and experiencing the factory firsthand, I realised that they really have nothing to hide. In fact, they even encouraged us to take pictures, look around and ask questions. There was no sense of secrecy or hiding anything.
 
-For a brand whose core message is transparency, seeing that same transparency behind the scenes made me believe in it so much more. TWT also has a 3D tour of their factory: [Take a look here](https://thewholetruthfoods.com/barkhana-protein-bars).
+For a brand whose core message is transparency, seeing that same transparency behind the scenes made me believe in it so much more. After the visit, I also found out that they have a 3D tour of their factory: [Take a look here](https://thewholetruthfoods.com/barkhana-protein-bars).
 
 ![The whey room: probably the most expensive room in the factory.](images/whey-1.jpg)
 
