@@ -47,13 +47,13 @@ Imagine your client is Gillette. Open a Q-commerce app, search for Gillette, and
 
 Now imagine an automated agent doing this across every dark store in the country, every single day. That's an incredibly rich dataset tracking nationwide availability and estimated inventory.
 
-![GobbleCube Data Stack](images/gobblecube-1.png)
+![GobbleCube's data stack as descibed on their website](images/gobblecube-1.png)
 
 Where GobbleCube really adds value is in building a data stack on top of this. For example, they add PIN-code-level advertising spend data, purchase order (PO) data, pricing data and inventory movement across the supply chain. Suddenly, you can start connecting the dots between different moving parts of the business.
 
 Imagine Gillette wants to run a targeted Meta campaign in South Delhi to promote a particular product. There is little value in generating demand through advertising if consumers then find the product out of stock. By mapping advertising activity against dark-store-level availability, brands can better coordinate where they generate demand with where they have the inventory to fulfil it.
 
-![GobbleCube](images/gobblecube-2.png)
+![An image of Gobble Cube's UI](images/gobblecube-2.png)
 
 This is just one hypothetical example. GobbleCube's website lists some interesting case studies of problems they have solved for businesses. Read them [here](https://gobblecube.ai/blog/tags/customer-stories/).
 
