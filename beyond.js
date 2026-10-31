@@ -21,7 +21,7 @@ But this was quite the opposite. The bars you consume are handmade by over 200 t
 
 What really got me was the scale they are doing this at. It’s one thing to have a small business that makes handmade products, but pushing out tens of thousands of handmade bars every day seems crazy to me. I couldn't help but think about the level of conviction required to build something like this.
 
-![The bars really are hand made] (images/handmade-1.HEIC)
+![The bars really are hand made] (images/handmade-1.jpg)
 
 ### 2. The encouragement to document everything
 
