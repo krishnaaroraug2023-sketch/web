@@ -41,13 +41,15 @@ From a business perspective, this doesn't make sense at all. Forget competitors,
 
 Every time I pick up a TWT bar now, I think a little differently about what's behind it. The people who made it, the ingredients that went into it, and the amount of work that goes into something I probably finish eating in five minutes.
 
-It's funny how a two-hour drive on a rainy Saturday morning can change how you look at something you consume almost every day. I've attached from the visit below.
+It's funny how a two-hour drive on a rainy Saturday morning can change how you look at something you consume almost every day. I've attached some pictures from the visit below.
+
+TWT organises factory visits for consumers every once in a while. If you'd like to see it for yourself, join their insiders community.
 
 ![Freshly made almond butter. The smell in this room was sublime.](images/almondbutter-1.jpg)
 
 ![Not all peanuts make the cut.](images/peanuts-1.jpg)
 
-![What lies after the factory. We even visited the mother warehouse.](images/warehouse-1.jpg)
+![What lies after the factory: we visited the central warehouse too.](images/warehouse-1.jpg)
 
 `
 },
