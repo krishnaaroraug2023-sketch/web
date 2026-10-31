@@ -270,6 +270,9 @@ figcaption {
 const app = document.getElementById('app');
 
 const inl = s => s
+  .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, (m, a, u) =>
+    `<img src="${u}" alt="${a}" loading="lazy" style="max-width:100%;height:auto;">`
+  )
   .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (m, a, u) =>
     `<a href="${u}"${u[0] == '#' ? '' : ' target="_blank" rel="noopener"'}>${a}</a>`
   )
