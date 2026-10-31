@@ -41,7 +41,9 @@ I found that quite refreshing. Here was a product I consume regularly, being mad
 
 Every time I pick up a TWT bar now, I think a little differently about what's behind it. The people who made it, the ingredients that went into it, and the amount of work that goes into something I probably finish eating in five minutes.
 
-It's funny how a two-hour drive on a rainy Saturday morning can change how you look at something you consume almost every day.
+It's funny how a two-hour drive on a rainy Saturday morning can change how you look at something you consume almost every day. I've attached from the visit below.
+
+![Freshly made almond butter. The smell in this room was sublime.](images/almondbutter-1.jpg)
 `
 },
 ];
