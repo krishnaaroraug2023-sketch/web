@@ -47,7 +47,7 @@ Imagine your client is Gillette. Open a Q-commerce app, search for Gillette, and
 
 Now imagine an automated agent doing this across every dark store in the country, every single day. That's an incredibly rich dataset tracking nationwide availability and estimated inventory.
 
-![GobbleCube's data stack as descibed on their website](images/gobblecube-1.png)
+![Gobble Cube's data stack as descibed on their website](images/gobblecube-1.png)
 
 Where GobbleCube really adds value is in building a data stack on top of this. For example, they add PIN-code-level advertising spend data, purchase order (PO) data, pricing data and inventory movement across the supply chain. Suddenly, you can start connecting the dots between different moving parts of the business.
 
