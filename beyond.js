@@ -21,6 +21,8 @@ But this was quite the opposite. The bars you consume are handmade by over 200 t
 
 What really got me was the scale they are doing this at. It’s one thing to have a small business that makes handmade products, but pushing out tens of thousands of handmade bars every day seems crazy to me. I couldn't help but think about the level of conviction required to build something like this.
 
+![The bars really are hand made] (images/handmade-1.HEIC)
+
 ### 2. The encouragement to document everything
 
 If you consume TWT, surely this thought has crossed your mind: “Is it as good as it seems? Surely they must be hiding something behind the scenes.” Trust me, I’ve thought about it too.
