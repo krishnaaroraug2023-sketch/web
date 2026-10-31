@@ -31,6 +31,8 @@ Going there and experiencing the factory firsthand, I realised they really have 
 
 For a brand whose core message is transparency, seeing that same transparency behind the scenes made me believe in it so much more. TWT also has a 3D tour of their factory: [Take a look here](https://thewholetruthfoods.com/barkhana-protein-bars).
 
+![Freshly made almond butter. The smell in this room was sublime.] (images/almondbutter-1.jpg)
+
 ### 3. The bar is so simple you could make it at home
 
 Looking at the ingredients and watching how the bars were made, I realised just how simple the product actually is. There's no crazy machinery or elaborate process that you need to understand. You can make these bars at home too. (This reminded me of a reel I saw about this: [Watch it here](https://www.instagram.com/reels/DXHQAN6AavU/))
