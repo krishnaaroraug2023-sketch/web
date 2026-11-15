@@ -107,7 +107,7 @@ A difference has also come about in the position pets hold in the household. Ear
 
 Most importantly, the pet care market is not just dogs anymore. Cat ownership is growing extremely fast, and that has led to the creation of an entirely new market.
 
-**Tailwind 2, Supply Side:** E-commerce is trumping the distribution power that vets once had
+**Tailwind 2, Supply:** E-commerce is trumping the distribution power that vets once had
 
 If you’ve been a pet owner, take yourself back 15 years. If you had to get **anything** for your pet, you were completely dependent on your neighbourhood vet. They were the go to for almost everything: from food, beds, bowls, toys and leashes. If you wanted to start a brand for pets, you had no other option but to invest in an offline distribution network through vets.
 
