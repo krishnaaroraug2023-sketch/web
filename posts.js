@@ -88,7 +88,7 @@ That's where it can drive huge growth.
   slug: "breaking-down-indias-pet-care-market",
   title: "Breaking Down India's Pet Care Market",
   date: "2026-11-15",
-  content: `
+  body: `
 This is my dog, Muffin. She was born in 2012 and is now 14 years old. Over the last 14 years, I've experienced how taking care of a dog has changed in India. What used to be visits to the neighbourhood vet have now become visits to chains like Zigly. What was once a simple *gadda* serving as her bed is now a plush bed from Heads Up For Tails. And what used to be her 5pm snack: unbranded dog biscuits has turned into yak milk chews from Dogsee Chew. If you’ve been a pet parent over the last decade, I’m sure you’ve experienced something exactly like this as well.
 
 The changes might seem small, but they reflect something much bigger: the evolution of India's pet care industry. What was a largely unorganised and fragmented market has turned into one of the hottest and fastest growing markets in the country.
