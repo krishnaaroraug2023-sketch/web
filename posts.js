@@ -87,9 +87,12 @@ That's where it can drive huge growth.
 {
   slug: "breaking-down-indias-pet-care-market",
   title: "Understanding India's Pet Care Market",
+  cat: "Consumer / Health",
   date: "2026-11-15",
   body: `
-This is my dog, Muffin. She was born in 2012 and is now 14 years old. Over the last 14 years, I've experienced how taking care of a dog has changed in India. What used to be visits to the neighbourhood vet have now become visits to chains like Zigly. What was once a simple *gadda* serving as her bed is now a plush bed from Heads Up For Tails. And what used to be her 5pm snack: unbranded dog biscuits has turned into yak milk chews from Dogsee Chew. If you’ve been a pet parent over the last decade, I’m sure you’ve experienced something exactly like this as well.
+This is my dog, Muffin. She was born in 2012 and is now 14 years old. Over the last 14 years, I've experienced how raising a dog has changed in India. What used to be visits to the neighbourhood vet have now become visits to chains like Zigly. What was once a simple *gadda* serving as her bed is now a plush bed from Heads Up For Tails. And what used to be her 5pm snack: unbranded biscuits is now yak milk chews from Dogsee Chew. 
+
+If you’ve been a pet parent over the last decade, I’m sure you’ve experienced something exactly like this as well.
 
 ![Muffin](images/muffin-1.jpg)
 
@@ -101,11 +104,11 @@ There are two broad tailwinds I see propelling this industry.
 
 **Tailwind 1, Demand:** Changing Indian household demographics
 
-People are having fewer kids than ever before. India is seeing a shift towards smaller households and lower fertility rates. But people still want the joy and affection of nurturing a child, and pets are one of the first things people turn to. Pet ownership has been rising steadily over the last decade, and has seen a higher growth rate post COVID as well.
+People are having fewer kids than ever before. India is seeing a shift towards smaller households, but people still want the joy and affection of nurturing a child, and pets are one of the first things people turn to. Pet ownership has been rising steadily over the last decade, with COVID acting as a catalyst as well.
 
 A difference has also come about in the position pets hold in the household. Earlier, they were viewed as the guardian of the household. Now, they’re considered part of the family, and this has led to an increase in wallet share for pets.
 
-Most importantly, the pet care market is not just dogs anymore. Cat ownership is growing extremely fast, and that has led to the creation of an entirely new market.
+Most importantly, the pet care market is not just for dogs anymore. Cat ownership is growing extremely fast, and that has led to the creation of an entirely new market.
 
 **Tailwind 2, Supply:** E-commerce is trumping the distribution power that vets once had
 
@@ -115,21 +118,21 @@ Distribution has completely changed with E-Commerce, and the barriers to entry f
 
 **Mapping the Value Chain of the Pet-care Industry**
 
-The pet care industry is very diverse, and encompasses a wide range of products and services. I’ve narrowed it down to these four segments:
+The pet care industry encompasses a wide range of products and services. I’ve narrowed it down to these four segments:
 
 **A. Marketplaces**
 
 Riding on Tailwind #2, marketplaces have become one of the most competitive spaces in the pet care ecosystem. Heads Up For Tails (HUFT), Supertails and Zigly now sell a whole host of products on their websites. Food, clothes, beds, grooming products, toys, and anything you could possibly imagine a pet would ever need.
 
-The three big marketplaces: HUFT, Zigly and Supertails sell their own private label products on their website as well. This allows them to capture significantly higher margins than marketplace commissions alone.
+The three big marketplaces: HUFT, Zigly and Supertails sell their own private label products on their website as well. This allows them to capture higher margins than just marketplace commissions.
 
 **B. Vets, Healthcare & Grooming**
 
 What used to be a fragmented network of neighbourhood vets is slowly being replaced by large vet chains. Players like Zigly, Supertails and Vetic are scaling their offline vet networks rapidly. While building this does require significant capex and is operationally complex, it creates a unique opportunity to build long term customer relationships with pet parents.
 
-Vets are the most important touchpoint for a pet parent. They are the first point of contact when someone gets a pet, and are consulted throughout a pet’s life. Vets are the first call when something goes wrong, and the person whose opinion pet parents value the most. It is because of this reason why marketplaces are choosing to invest in this so rapidly. It allows them to create long standing relationships and trust with the consumer. Supertails also plans on making this a data moat. Read more on this [here](https://entrepreneur.economictimes.indiatimes.com/news/startups/supertails-journey-to-becoming-what-it-always-wanted-to-be/134737505).
+Vets are the most important touchpoint for a pet parent. They are the first point of contact when someone gets a pet, and are consulted throughout a pet’s life. Vets are the first call when something goes wrong, and the person whose opinion pet parents value the most. That's why marketplaces are also choosing to invest in vet services so intensively. It allows them to create long standing relationships and trust with the consumer. Supertails also plans on making this a data moat. Read more on this [here](https://entrepreneur.economictimes.indiatimes.com/news/startups/supertails-journey-to-becoming-what-it-always-wanted-to-be/134737505).
 
-While Zigly and Supertails have set up their own vet services, HUFT has stayed away from it. Instead, it has chosen to partner with independent pet hospitals. Interestingly, HUFT does have a strong offline presence, both in terms of retail and grooming services for pets. As of 2026, HUFT has around 115 physical stores and 70+ grooming locations, Zigly has 48 vet centres and stores, while Supertails has 12 clinics exclusively in Bangalore.
+While Zigly and Supertails have set up their own vet services, HUFT has stayed away from it. It has chosen to partner with smaller, independent pet hospitals. That being siad, HUFT has an extremely strong offline presence, both in terms of retail and grooming services for pets. As of 2026, HUFT has around 115 physical stores and 70+ grooming locations, Zigly has 48 vet centres and stores, while Supertails has 12 clinics exclusively in Bangalore.
 
 **C. Pet Food**
 
@@ -139,7 +142,7 @@ There are well established players that have been around for ages: Pedigree, Dro
 
 **D. Accessories, Clothes & Toys**
 
-Unlike food, this is a category with low brand awareness, loyalty and repeat rates. Therefore, this was a highly unbranded category for the longest time. While it still is to an extent, the emergence of marketplaces is changing this, with their own private labels across beds, toys and clothes. At the same time, smaller D2C lifestyle and accessories brands are finding whitespaces and capturing market share.
+Unlike food, this is a category with low brand awareness, loyalty and repeat rates. Therefore, this was a highly unbranded category for the longest time. While it still is to an extent, marketplaces are changing this, with their own private labels across beds, toys and clothes. At the same time, smaller D2C lifestyle and accessories brands are also finding whitespaces and capturing market share.
 
 **Supertails vs Heads Up For Tails vs Zigly: three different paths**
 
