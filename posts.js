@@ -124,6 +124,8 @@ The pet care industry encompasses a wide range of products and services. I’ve 
 
 Riding on Tailwind #2, marketplaces have become one of the most competitive spaces in the pet care ecosystem. Heads Up For Tails (HUFT), Supertails and Zigly now sell a whole host of products on their websites. Food, clothes, beds, grooming products, toys, and anything you could possibly imagine a pet would ever need.
 
+![The wide range of products listed on Supertails' website](images/marketplace-1.jpg)
+
 The three big marketplaces: HUFT, Zigly and Supertails sell their own private label products on their website as well. This allows them to capture higher margins than just marketplace commissions.
 
 **B. Vets, Healthcare & Grooming**
@@ -133,6 +135,8 @@ What used to be a fragmented network of neighbourhood vets is slowly being repla
 Vets are the most important touchpoint for a pet parent. They are the first point of contact when someone gets a pet, and are consulted throughout a pet’s life. Vets are the first call when something goes wrong, and the person whose opinion pet parents value the most. That's why marketplaces are also choosing to invest in vet services so intensively. It allows them to create long standing relationships and trust with the consumer. Supertails also plans on making this a data moat. Read more on this [here](https://entrepreneur.economictimes.indiatimes.com/news/startups/supertails-journey-to-becoming-what-it-always-wanted-to-be/134737505).
 
 While Zigly and Supertails have set up their own vet services, HUFT has stayed away from it. It has chosen to partner with smaller, independent pet hospitals. That being siad, HUFT has an extremely strong offline presence, both in terms of retail and grooming services for pets. As of 2026, HUFT has around 115 physical stores and 70+ grooming locations, Zigly has 48 vet centres and stores, while Supertails has 12 clinics exclusively in Bangalore.
+
+![HUFTs offline stores build strong brand equity](images/huft-1.jpg)
 
 **C. Pet Food**
 
