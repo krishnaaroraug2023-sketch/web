@@ -163,6 +163,9 @@ HUFT is taking a different route, building its business around brand equity and 
 **Zigly: Corporate backed omnichannel model**
 
 Zigly follows a slightly different path. It is part of Cosmo First, a listed company, giving Zigly access to a corporate parent rather than the conventional venture capital funding model followed by the other two. Its strategy combines physical retail, grooming, veterinary services and online commerce. While it shares similarities with both HUFT and Supertails, its expansion is ultimately constrained by the allocation priorities of Cosmo First. It has been investing in both in offline stores, vet centres, and private labels, somewhat of a mix of Supertails and HUFT’s strategies.
+
+I find this divergence in business models interesting. All companies are addressing the same market, but are making different bets on where customer loyalty, margins and a long term moat can be built.
+
   `
 },
 
