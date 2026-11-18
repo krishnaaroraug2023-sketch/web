@@ -11,7 +11,7 @@ const POSTS = [
 
 {
   slug: "gobble-cube-data-stack",
-  title: "GobbleCube: The Data Stack Behind Quick Commerce",
+  title: "GobbleCube: The business of decoding quick commerce",
   cat: "Enterprise Tech / SaaS",
   date: "2026-10-30",
   body: `
@@ -86,7 +86,7 @@ That's where it can drive huge growth.
   
 {
   slug: "breaking-down-indias-pet-care-market",
-  title: "Understanding India's Pet Care Market",
+  title: "The business of pampering India's pets",
   cat: "Consumer / Health",
   date: "2026-11-15",
   body: `
