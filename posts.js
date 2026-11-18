@@ -11,7 +11,7 @@ const POSTS = [
 
 {
   slug: "gobble-cube-data-stack",
-  title: "GobbleCube: The business of decoding quick commerce",
+  title: "GobbleCube: Decoding quick commerce with data",
   cat: "Enterprise Tech / SaaS",
   date: "2026-10-30",
   body: `
