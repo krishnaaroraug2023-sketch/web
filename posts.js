@@ -102,7 +102,7 @@ The changes might seem small, but they reflect something much bigger: the evolut
 
 There are two broad tailwinds I see propelling this industry.
 
-**Tailwind 1, Demand:** Changing Indian household demographics
+**Tailwind 1:** Changing Indian household demographics
 
 People are having fewer kids than ever before. India is seeing a shift towards smaller households, but people still want the joy and affection of nurturing a child, and pets are one of the first things people turn to. Pet ownership has been rising steadily over the last decade, with COVID acting as a catalyst as well.
 
@@ -110,7 +110,7 @@ A difference has also come about in the position pets hold in the household. Ear
 
 Most importantly, the pet care market is not just for dogs anymore. Cat ownership is growing extremely fast, and that has led to the creation of an entirely new market.
 
-**Tailwind 2, Supply:** E-commerce is trumping the distribution power that vets once had
+**Tailwind 2:** E-commerce is trumping the distribution power that vets once had
 
 If you’ve been a pet owner, take yourself back 15 years. If you had to get **anything** for your pet, you were completely dependent on your neighbourhood vet. They were the go to for almost everything: from food, beds, bowls, toys and leashes. If you wanted to start a brand for pets, you had no other option but to invest in an offline distribution network through vets.
 
